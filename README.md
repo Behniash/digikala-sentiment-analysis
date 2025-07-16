@@ -12,6 +12,7 @@ This project performs sentiment analysis on Persian Digikala product reviews usi
 
 ## Dataset
 Persian product reviews scraped from Digikala.
+https://www.kaggle.com/datasets/soheiltehranipour/digikala-comments-persian-sentiment-analysis
 
 ## How to Run
 1. Install requirements:
